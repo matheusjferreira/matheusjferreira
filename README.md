@@ -8,8 +8,13 @@
 <div align="center">
   <h2>About Me</h2>
   <p>I'M A FLUTTER DEVELOPER</p>
-  <p>FATEC Americana-SP</p>
+  <p>+------------------------------------------------+</p>
+  <p>:mortar_board: FATEC Americana-SP</p>
   <p>Analysis and systems development</p>
+  <p>+------------------------------------------------+</p>
+  <p>:mortar_board: UNIVESP</p>
+  <p>Computer engineering</p>
+  <p>+------------------------------------------------+</p>
 </div>
 
 <!-- social -->
