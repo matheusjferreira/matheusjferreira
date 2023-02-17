@@ -21,8 +21,8 @@
 <div align="center">
   <h2>Follow me on social networks:</h2>
   <a href="https://github.com/matheusjferreira" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-ferreira-8711a71a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin" target="_blank"></a>
-  <a href="https://www.instagram.com/matheus_jediel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-ferreira-4535bb261/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin" target="_blank"></a>
+  <a href="https://www.instagram.com/matheus.jediel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link" target="_blank"></a>
 </div>
 
 <!-- languages & tools -->
